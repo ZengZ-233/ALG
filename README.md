@@ -4,6 +4,7 @@
 ∟ 贪心算法  
 ∟ 树  
 ∟ 图论  
+∟ 二分查找  
 
 # AcWing  
 [AcWing Problem List](https://www.acwing.com/problem/)  
